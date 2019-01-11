@@ -1,1 +1,2 @@
-puts "Bonjour Victor" , "Ca va ?"
+puts "Bonjour, Monde !" ,
+"Et avec une voix sexy, ça donne : Bonjour, monde !"
